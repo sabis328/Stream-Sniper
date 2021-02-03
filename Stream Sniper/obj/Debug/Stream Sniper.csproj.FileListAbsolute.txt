@@ -1,0 +1,10 @@
+C:\Users\abis3\source\repos\Stream Sniper\bin\Debug\Stream Sniper.exe.config
+C:\Users\abis3\source\repos\Stream Sniper\bin\Debug\Stream Sniper.exe
+C:\Users\abis3\source\repos\Stream Sniper\bin\Debug\Stream Sniper.pdb
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream Sniper.csprojAssemblyReference.cache
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream_Sniper.Form1.resources
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream_Sniper.Properties.Resources.resources
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream Sniper.csproj.GenerateResource.cache
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream Sniper.csproj.CoreCompileInputs.cache
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream Sniper.exe
+C:\Users\abis3\source\repos\Stream Sniper\obj\Debug\Stream Sniper.pdb
